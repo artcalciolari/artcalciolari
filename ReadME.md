@@ -1,7 +1,7 @@
 # Arthur David Müzel Calciolari
 
 ## About me
-Hello there! my name is Arthur calciolari. I'm interested in finance, black holes, the bleeding of thecnology and HEAVY-METAL 🤘
+Hello there! my name is Arthur calciolari. I'm interested in finance, black holes, the bleeding edge of tecnology and HEAVY-METAL 🤘
 
 
 
