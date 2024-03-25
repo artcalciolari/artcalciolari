@@ -16,7 +16,7 @@ Hello there! my name is Arthur calciolari. I'm interested in finance, black hole
 ## Languages
 - Java
 - Python
-- PostgresSQL
+- PostgreSQL
 - MySQL
 - Git (sort of)
 
