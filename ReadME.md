@@ -23,8 +23,3 @@ Quando não estou desenhando arquiteturas ou configurando contêineres, provavel
 ## 📬 Contato
 - E-mail: arthur_calciolari@outlook.com
 - LinkedIn: https://www.linkedin.com/in/arthur-calciolari-078138224/
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artcalciolari&layout=compact&langs_count=7&theme=bright"/>
-</div>
